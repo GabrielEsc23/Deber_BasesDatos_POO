@@ -23,10 +23,10 @@ Este proyecto es una aplicación de escritorio desarrollada en Java que permite 
 ## Capturas de Pantalla
 
 ## Pantalla de Login
-**Descripción:** Permite a los usuarios ingresar sus credenciales.
+
 ![Captura de Login](https://raw.githubusercontent.com/GabrielEsc23/Deber_BasesDatos_POO/master/capturaLogin.png)
 ### Pantalla Principal
-**Descripción:** Muestra los registros almacenados en la base de datos.
+
 ![Captura de Estudiantes](https://raw.githubusercontent.com/GabrielEsc23/Deber_BasesDatos_POO/master/capturaEstudiantes.png)
 
 
@@ -40,11 +40,11 @@ Este proyecto es una aplicación de escritorio desarrollada en Java que permite 
 ## Instalación y Ejecución
 
 1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   ```
 
-2. Importa el proyecto en tu IDE (Eclipse, IntelliJ, etc.).
+   git clone https://github.com/GabrielEsc23/Deber_BasesDatos_POO.git
+   
+
+2. Importa el proyecto en tu IntelliJ.
 
 3. Configura la conexión a la base de datos en las clases `login` y `Ventana`:
    ```java
