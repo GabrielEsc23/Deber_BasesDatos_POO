@@ -27,7 +27,7 @@ Este proyecto es una aplicación de escritorio desarrollada en Java que permite 
 
 ### Pantalla de Login
 **Descripción:** Permite a los usuarios ingresar sus credenciales.
-![Captura Login](https://raw.githubusercontent.com/usuario/repositorio/main/capturaLogin.png)
+![Captura Login](https://github.com/GabrielEsc23/Deber_BasesDatos_POO/blob/master/capturaLogin.png)
 
 ### Pantalla Principal
 **Descripción:** Muestra los registros almacenados en la base de datos.
