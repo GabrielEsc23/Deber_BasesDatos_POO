@@ -19,6 +19,7 @@ Este proyecto es una aplicación de escritorio desarrollada en Java que permite 
 1. Tener instalado Java.
 2. MySQL instalado y configurado.
 3. Una base de datos llamada `bd_ins` con la siguiente estructura:
+4. ![Captura de Login](https://raw.githubusercontent.com/GabrielEsc23/Deber_BasesDatos_POO/master/capturaLogin.png)
 
 
 ```
