@@ -18,7 +18,7 @@ Este proyecto es una aplicación de escritorio desarrollada en Java que permite 
 ## Requisitos Previos
 1. Tener instalado Java.
 2. MySQL instalado y configurado.
-3. Una base de datos llamada `bd_ins` con la siguiente estructura:
+3. Una base de datos llamada `bd_ins` 
 
 ## Capturas de Pantalla
 
