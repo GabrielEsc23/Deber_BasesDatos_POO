@@ -27,11 +27,11 @@ Este proyecto es una aplicación de escritorio desarrollada en Java que permite 
 
 ### Pantalla de Login
 **Descripción:** Permite a los usuarios ingresar sus credenciales.
-![Captura del Login](ruta_a_la_imagen_login)
+![Captura del Login](assets/capturaLogin.png)
 
 ### Pantalla Principal
 **Descripción:** Muestra los registros almacenados en la base de datos.
-![Captura de la Tabla de Datos](ruta_a_la_imagen_tabla)
+![Captura de la Tabla de Datos](assets/capturaEstudiantes.png)
 
 ## Instalación y Ejecución
 
