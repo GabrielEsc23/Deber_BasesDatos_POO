@@ -27,7 +27,7 @@ Este proyecto es una aplicación de escritorio desarrollada en Java que permite 
 ![Captura de Login](https://raw.githubusercontent.com/GabrielEsc23/Deber_BasesDatos_POO/master/capturaLogin.png)
 ### Pantalla Principal
 **Descripción:** Muestra los registros almacenados en la base de datos.
-![Captura Estudiantes](https://raw.githubusercontent.com/usuario/repositorio/main/capturaEstudiantes.png)
+![Captura de Estudiantes](https://raw.githubusercontent.com/GabrielEsc23/Deber_BasesDatos_POO/master/capturaEstudiantes.png)
 
 
 ```
@@ -58,11 +58,5 @@ Este proyecto es una aplicación de escritorio desarrollada en Java que permite 
 - **login.java**: Maneja la autenticación del usuario.
 - **Ventana.java**: Muestra los datos de la base de datos.
 
-## Futuros Mejoras
-- Agregar funcionalidades para insertar, editar y eliminar registros.
-- Implementar diferentes niveles de acceso para estudiantes y administradores.
-- Mejorar el diseño de la interfaz.
 
-## Licencia
-Este proyecto está licenciado bajo la [MIT License](https://opensource.org/licenses/MIT).
 
